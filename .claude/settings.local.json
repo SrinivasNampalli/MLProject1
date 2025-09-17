@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(python:*)",
-      "Bash(code ieee-research-paper.md)"
+      "Bash(code ieee-research-paper.md)",
+      "WebSearch",
+      "Bash(start ftc-parts-tester.html)"
     ],
     "deny": []
   }
